@@ -1,0 +1,34 @@
+"""1. My project will be an app about cybersecurity. I feel as though not many students (including myself) are very educated regarding cybersecurity, and I would like to provide them with an in-depth understanding of one 
+cybersecurity topic or a general understanding of cybersecurity as a whole. I haven't decided what specifically I want my presentation to focus on yet but I will decide after I complete the cybersecurity lessons I am 
+watching for the project. I want my presentation to be a beginner-friendly intro to cybersecurity that will hopefully catch the attention of other students and make them consider learning more about it. I have very little 
+knowledge of cybersecurity at the moment but I know that there are several different roles that people can have in the field such as a cybersecurity engineer or a cybersecurity analyst, I would like to elaborate on the 
+difference between these roles and the many possibilities within the field. The overall goal of my app is to make people more aware of what cybersecurity is and how it impacts their day-to-day lives. 
+
+2. I chose cybersecurity as my project because my dad has a very successful friend in cybersecurity. He loves his job and makes really good money. He had already told me that if it is something I am interested in pursuing,
+he can help me get an internship because he has many connections within the field. This project will help me figure out if cybersecurity is something that I am actually interested in or if it is just the money that I find 
+appealing. I do believe it is something I would enjoy pursuing in the future but I want to know more about it before I make that decision.
+
+3. The target audience for this app is anyone who is interested in learning more about cybersecurity or is considering pursuing it as a career. The age demographic is most likely going to be younger people such as high
+school and college students who have not started their careers yet. The app is going to be very simple information about cybersecurity so it could potentially be more useful for high school classes rather than college ones
+if it is being used by schools. The app could also interest people who are older and considering switching careers or even just people who are interested in learning more about tech in general. I was thinking about creating
+an app for iOS, so the target audience for that would be iPhone and Mac users. This app could also potentially be useful for old people who often give away their passwords and personal information online. They could learn 
+from this app to be more digitally aware of themselves and avoid scams.
+
+4. The problem that my project hopes to tackle is the lack of awareness regarding cybersecurity and protecting your information online. My app is likely going to target key topics regarding cybersecurity and digital safety 
+in a way that is easily understood by young people and older people. Additionally, the app will also have a section where you can learn more about the work options in the cybersecurity field. This allows people looking into
+cybersecurity to easily get a better understanding of the field and make informed career decisions. Digital awareness and safety are becoming increasingly more important as the digital world grows larger. People are 
+consistently falling for scam emails and clicking on links that are dangerous. One goal of my app is to provide people with the basic skills needed for spotting and avoiding these risks. The app will definitely have
+different subsections regarding different topics so that people can easily navigate to what they are interested in learning about cybersecurity. One section will be about digital awareness, another will be topics in
+cybersecurity, and another will be about the potential jobs in the field of cybersecurity.
+
+5. Programming Languages: python: https://docs.python.org/3/
+Maybe javascript? : https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Resources: https://codefinity.com/get-started/spa/v8_new_brl?utm_source=google&utm_medium=cpc&utm_campaign=21473093734&utm_content=169388265761&utm_term=how%20to%20learn%20python&dki=How%20To%20Learn%20Python&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjP7KkdwEpyRCnSkPPDofADKJxecyuJLrDJqI32RZ3HFWCXWw45a_-xoCRpQQAvD_BwE 
+https://brilliant.org/s/sem/python/?utm_medium=cpc&utm_source=search&utm_term=156942602106_learn%20python%20programming_CTG_Computer_Science_Python_Learn&utm_content=699408935430_&utm_campaign=20912904665_Mixed_Search_Category_Comp_Sci_Global_L50HHI&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjEQq7EXPSycZDiPyhK6vnAZhO9RiPTsVBKwBxOlZ2DO0maX0F_miWRoCiVkQAvD_BwE
+https://www.jetbrains.com/academy/career-in-it/?source=google&medium=cpc&campaign=AMER_en_US_JBAcademy_Boost_Your_Career_Search&term=learn%20javascript&content=718726151481&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjC7lCROzb5JB_oZK7FFdnW9bkyVlriwNs_JRQ9ays0yxLT3NOFgtOxoC5MQQAvD_BwE
+
+6. Tools and frameworks: https://www.codecademy.com/learn/introduction-to-cybersecurity
+https://tryhackme.com/
+
+Wireframe Sketch:"""
+
