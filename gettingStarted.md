@@ -1,5 +1,6 @@
 #getting started file
 
-![Image of codeacademy course completion](file:///Users/kaceycrosby/Desktop/Screenshot%202024-12-02%20at%203.18.26%E2%80%AFPM.png)
+![image](https://github.com/user-attachments/assets/07778636-709e-41e7-bdcd-86d092ad1cd8)
 
-![Image of tryhackme completion](file:///Users/kaceycrosby/Desktop/Screenshot%202024-12-04%20at%203.09.21%E2%80%AFPM.png)
+
+![image](https://github.com/user-attachments/assets/74c01942-66d8-4f85-8ebe-a0bdeb6392c6)
