@@ -1,4 +1,4 @@
-#getting started file
+# getting started file
 
 ![image](https://github.com/user-attachments/assets/07778636-709e-41e7-bdcd-86d092ad1cd8)
 
